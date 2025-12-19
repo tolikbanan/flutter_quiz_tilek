@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Чем StatelessWidget отличается от StatefulWidget?",
+    "options": [
+      "Stateless не имеет состояния, Stateful имеет",
+      "Stateless тяжелее по памяти",
+      "Stateful нельзя использовать",
+      "Разницы нет"
+    ],
+    "correctIndex": 0,
+    "topic": "widgets"
+  },
+  {
+    "text": "Какая директива используется для импорта библиотек в Dart?",
+    "options": ["package", "import", "using", "include"],
+    "correctIndex": 1,
+    "topic": "dart"
+  },
+  {
+    "text": "Что такое ListView в Flutter?",
+    "options": ["Список виджетов с прокруткой", "Только кнопки", "Только изображения", "Состояние приложения"],
+    "correctIndex": 0,
+    "topic": "widgets"
+  },
+  {
+    "text": "Какой виджет позволяет обновлять интерфейс при изменении состояния?",
+    "options": ["StatelessWidget", "StatefulWidget", "Container", "Text"],
+    "correctIndex": 1,
+    "topic": "widgets"
+  },
+  {
+    "text": "Какой пакет используется для HTTP-запросов в Flutter?",
+    "options": ["http", "dio", "flutter_http", "dart_http"],
+    "correctIndex": 0,
+    "topic": "architecture"
+  },
+  {
+    "text": "Какой метод используется для навигации на новый экран?",
+    "options": ["Navigator.push", "Navigator.pop", "setState", "build"],
+    "correctIndex": 0,
+    "topic": "navigation"
+  },
+  {
+    "text": "Какая структура проекта Flutter рекомендуется?",
+    "options": ["lib, assets, test", "main, data, model", "app, main", "res, java"],
+    "correctIndex": 0,
+    "topic": "project_structure"
+  },
+  {
+    "text": "Как правильно обновлять состояние в MVVM?",
+    "options": ["Прямо в виджете", "Через ViewModel и notifyListeners()", "Через main.dart", "Никак"],
+    "correctIndex": 1,
+    "topic": "architecture"
+  },
+  {
+    "text": "Что делает ChangeNotifier в Flutter?",
+    "options": ["Хранит состояние и уведомляет слушателей", "Создает кнопки", "Рисует текст", "Ничего"],
+    "correctIndex": 0,
+    "topic": "architecture"
+  },
+  {
+    "text": "Какая функция запускает приложение в Flutter?",
+    "options": ["runApp()", "main()", "build()", "setState()"],
+    "correctIndex": 0,
+    "topic": "dart"
+  }
+]
